@@ -1,0 +1,15 @@
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.exe
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.deps.json
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.runtimeconfig.json
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\bin\Debug\net6.0\ref\AlanHesaplama.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\bin\Debug\net6.0\AlanHesaplama.pdb
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.csproj.AssemblyReference.cache
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.AssemblyInfoInputs.cache
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.AssemblyInfo.cs
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.csproj.CoreCompileInputs.cache
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\obj\Debug\net6.0\ref\AlanHesaplama.dll
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.pdb
+D:\USERDATA\Desktop\C# Projeler\6 - Alan Hesapla\AlanHesaplama\obj\Debug\net6.0\AlanHesaplama.genruntimeconfig.cache
